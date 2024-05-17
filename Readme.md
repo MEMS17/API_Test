@@ -1,0 +1,1 @@
+# Utilisation de l'API de ChatGPT pour une personnalisation de celle-ci dans un but spécifique.
